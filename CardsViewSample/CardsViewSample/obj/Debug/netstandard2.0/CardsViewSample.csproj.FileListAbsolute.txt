@@ -1,0 +1,29 @@
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.deps.json
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.dll
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.pdb
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.csproj.CoreCompileInputs.cache
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.AssemblyInfoInputs.cache
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.AssemblyInfo.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.dll
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.pdb
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.csprojAssemblyReference.cache
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View1.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View2.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View3.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.deps.json
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.dll
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\bin\Debug\netstandard2.0\CardsViewSample.pdb
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View1.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View2.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\My Views\View3.xaml.g.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.csproj.CoreCompileInputs.cache
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.AssemblyInfoInputs.cache
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.AssemblyInfo.cs
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.dll
+C:\Users\asalah.BCT\source\repos\1\1\CardsViewSample\CardsViewSample\obj\Debug\netstandard2.0\CardsViewSample.pdb

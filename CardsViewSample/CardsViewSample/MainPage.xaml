@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CardsViewSample"
+             xmlns:carouselStuff="clr-namespace:CardsViewSample.CarouselView_Stuff"
+             xmlns:cards="clr-namespace:PanCardView;assembly=PanCardView"
+             xmlns:controls="clr-namespace:PanCardView.Controls;assembly=PanCardView"
+             x:Class="CardsViewSample.MainPage">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <carouselStuff:CustomViewSelector x:Key="mySelector"/>
+            <Style TargetType="controls:IndicatorsControl" x:Key="customUnselectedIndicatorStyle">
+                <Setter Property="BackgroundColor" Value="#9e9e9e"/>
+            </Style>
+            <Style TargetType="controls:IndicatorsControl" x:Key="customSelectedIndicatorStyle">
+                <Setter Property="BackgroundColor" Value="#605e5e"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <cards:CarouselView
+                         IsCyclical="False"
+                         ItemsSource="{Binding AvaiableViews}"
+                         SelectedIndex="{Binding Position}"
+                         ItemTemplate="{StaticResource mySelector}">
+
+        <controls:IndicatorsControl Scale="1.25" SelectedIndicatorStyle="{StaticResource customSelectedIndicatorStyle}" UnselectedIndicatorStyle="{StaticResource customUnselectedIndicatorStyle}"/>
+        <carouselStuff:CustomLeftArrow HeightRequest="30" WidthRequest="30" BackgroundColor="Transparent" BorderColor="Transparent"/>
+        <carouselStuff:CustomRightArrow HeightRequest="30" WidthRequest="30" BackgroundColor="Transparent" BorderColor="Transparent"/>
+    </cards:CarouselView>
+
+</ContentPage>

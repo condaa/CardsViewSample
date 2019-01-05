@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cardsviewsample="clr-namespace:CardsViewSample"
+             x:Class="CardsViewSample.My_Views.View2">
+  <ContentView.Content>
+      <StackLayout>
+            <Label Text="Welcome from view 2" HorizontalOptions="Center" FontSize="Large"/>
+            <Picker x:Name="defaultPicker" HorizontalOptions="Center" WidthRequest="150"/>
+            <cardsviewsample:RectangleWithIconPicker x:Name="customPicker" HorizontalOptions="Center" WidthRequest="150" IconSourceWithoutExtension="down_arrow" IconDistanceFromRight="15"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

@@ -1,0 +1,10 @@
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\CardsViewSample.UWP.csprojAssemblyReference.cache
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\App.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\App.xaml
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\App.xbf
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\asalah.BCT\source\repos\CardsViewSample Repo\CardsViewSample\CardsViewSample\CardsViewSample.UWP\obj\x86\Debug\XamlSaveStateFile.xml
